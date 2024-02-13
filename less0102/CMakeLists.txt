@@ -16,7 +16,8 @@ include(${wxWidgets_USE_FILE})
 
 file(GLOB project_GLOB
     main.cpp
-    simple.cpp
+    communicate.cpp
+    panels.cpp
 )
 
 add_executable(${PROJECT_NAME} ${project_GLOB})
