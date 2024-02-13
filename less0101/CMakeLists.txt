@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.0.0)
 project(wxSimple VERSION 0.1.0)
 
 
+
 if (DEFINED ENV_WX_CONFIG)
     set(ENV{WX_CONFIG} ${ENV_WX_CONFIG}})
 endif()
