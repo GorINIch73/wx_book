@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/gor/C_Projects/WX/book/less0",
+  "command": "/sbin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK3__ -D__WXGTK__ -isystem /usr/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/include/wx-3.2  -pthread -g -o CMakeFiles/wxZero.dir/test.cpp.o -c /home/gor/C_Projects/WX/book/less0/test.cpp",
+  "file": "/home/gor/C_Projects/WX/book/less0/test.cpp",
+  "output": "CMakeFiles/wxZero.dir/test.cpp.o"
+}
+]
