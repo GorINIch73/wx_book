@@ -1,0 +1,3 @@
+/home/gor/C_Projects/WX/book/less0101/CMakeFiles/wxSimple.dir
+/home/gor/C_Projects/WX/book/less0101/CMakeFiles/edit_cache.dir
+/home/gor/C_Projects/WX/book/less0101/CMakeFiles/rebuild_cache.dir
