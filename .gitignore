@@ -1,3 +1,5 @@
-.cache/
-.cmake/
-CMakefiles/
+*
+!CMakeList.txt
+!*.h
+!*.cpp
+!*.c

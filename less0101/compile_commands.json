@@ -1,14 +1,14 @@
 [
 {
-  "directory": "/home/gor/C_Projects/WX/book/less0101",
-  "command": "/sbin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK3__ -D__WXGTK__ -isystem /usr/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/include/wx-3.2  -pthread -g -o CMakeFiles/wxSimple.dir/main.cpp.o -c /home/gor/C_Projects/WX/book/less0101/main.cpp",
-  "file": "/home/gor/C_Projects/WX/book/less0101/main.cpp",
+  "directory": "/home/gor/C_Projects/WX/wx_book/less0101",
+  "command": "/sbin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK3__ -D__WXGTK__ -isystem /usr/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/include/wx-3.2  -pthread -g -o CMakeFiles/wxSimple.dir/main.cpp.o -c /home/gor/C_Projects/WX/wx_book/less0101/main.cpp",
+  "file": "/home/gor/C_Projects/WX/wx_book/less0101/main.cpp",
   "output": "CMakeFiles/wxSimple.dir/main.cpp.o"
 },
 {
-  "directory": "/home/gor/C_Projects/WX/book/less0101",
-  "command": "/sbin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK3__ -D__WXGTK__ -isystem /usr/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/include/wx-3.2  -pthread -g -o CMakeFiles/wxSimple.dir/simple.cpp.o -c /home/gor/C_Projects/WX/book/less0101/simple.cpp",
-  "file": "/home/gor/C_Projects/WX/book/less0101/simple.cpp",
+  "directory": "/home/gor/C_Projects/WX/wx_book/less0101",
+  "command": "/sbin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK3__ -D__WXGTK__ -isystem /usr/lib/wx/include/gtk3-unicode-3.2 -isystem /usr/include/wx-3.2  -pthread -g -o CMakeFiles/wxSimple.dir/simple.cpp.o -c /home/gor/C_Projects/WX/wx_book/less0101/simple.cpp",
+  "file": "/home/gor/C_Projects/WX/wx_book/less0101/simple.cpp",
   "output": "CMakeFiles/wxSimple.dir/simple.cpp.o"
 }
 ]

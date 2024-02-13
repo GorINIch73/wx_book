@@ -1,4 +1,4 @@
-# Install script for directory: /home/gor/C_Projects/WX/book/less0101
+# Install script for directory: /home/gor/C_Projects/WX/wx_book/less0101
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/gor/C_Projects/WX/book/less0101/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/gor/C_Projects/WX/wx_book/less0101/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
