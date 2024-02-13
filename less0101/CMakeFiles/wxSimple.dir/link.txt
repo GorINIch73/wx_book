@@ -1,1 +1,0 @@
-/sbin/c++  -pthread -g -rdynamic CMakeFiles/wxSimple.dir/main.cpp.o CMakeFiles/wxSimple.dir/simple.cpp.o -o wxSimple  -pthread -lwx_baseu_net-3.2 -lwx_gtk3u_core-3.2 -lwx_baseu-3.2 
