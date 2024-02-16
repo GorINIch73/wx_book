@@ -1,13 +1,8 @@
 #include "communicate.h"
-#include "panels.h"
-#include <wx/event.h>
-#include <wx/gdicmn.h>
-#include <wx/generic/panelg.h>
-#include <wx/gtk/button.h>
-#include <wx/gtk/stattext.h>
+//#include "panels.h"
 
 LeftPanel::LeftPanel(wxPanel * parent)
-    : wxPanel(parent, -1, wxPoint(-1,-1),wxSize(-1,-1),wxBORDER_SUNKEN)
+    : wxPanel(parent, -1, wxPoint(-1,-1),wxSize(300,300),wxBORDER_SUNKEN)
 {
     count=0;
     m_parent=parent;
@@ -36,8 +31,9 @@ void LeftPanel::OnMinus(wxCommandEvent& WXUNUSED(event))
 
 }
 
-RightPanel::RightPanel(wxPanel *parebt)
-    : wxPanel(parent, wxID_ANY,wxDefaultPosition,wxSize(270,150),wxBORDER_SUNKEN)
+RightPanel::RightPanel(wxPanel *parent)
+//    : wxPanel(parent, wxID_ANY,wxDefaultPosition,wxSize(270,150),wxBORDER_SUNKEN)
+    : wxPanel(parent, wxID_ANY,wxPoint(300,10),wxSize(270,150),wxBORDER_SUNKEN)
 {
     m_text = new wxStaticText(this,-1,wxT("0"),wxPoint(40,60));
 }
