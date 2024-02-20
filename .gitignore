@@ -7,5 +7,6 @@
 !*.c
 !.gitignore
 !*.png
+!*.jpg
 CMakeFiles/
 
